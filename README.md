@@ -1,4 +1,15 @@
-doubledouble
+Doubledouble
 ============
 
-OCaml API to work with doubledouble floating point values (higher-precision than double arithmetic), port of http://tsusiatsoftware.net/dd/main.html
+OCaml API to work with doubledouble floating point values (higher-precision
+than double arithmetic).
+
+Code is translated from [DD](http://tsusiatsoftware.net/dd/main.html) by Martin Davis.
+See [tsusiatsoftware](http://tsusiatsoftware.net) for more information.
+
+Licensed under 3-clause BSD.
+
+Installation
+------------
+
+Just run `make install` assuming you have a working ocaml/ocamlfind setup.
